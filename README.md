@@ -1,3 +1,18 @@
+# LaunchReady AI
+
+AI-powered marketing creative platform built for the Pixels to Products – Cloudinary AI Hackathon 2026.
+
+## 🚀 Live Demo
+
+https://launchready-ai-chi.vercel.app
+
+## 🎥 Demo Video
+
+https://youtu.be/Vcw-7yIAFAU
+
+## 💻 GitHub Repository
+
+https://github.com/HackIndiaXYZ/pixels-to-products-cloudinary-ai-hackathon-2026-launchforge-ai
 # LaunchReady AI — Final Studio Edition
 
 LaunchReady AI is a Cloudinary-first campaign workspace. It turns one original product image into channel-specific campaign artwork, keeps a reusable brand kit, checks campaign readiness, stores campaign history in the browser, and includes a browser-based Motion Ads editor for uploaded video footage.
